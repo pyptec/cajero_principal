@@ -1,0 +1,4 @@
+".\hex\STARTUP.obj",
+".\hex\Principal_MF.obj" 
+TO ".\hex\Principal_CPU Cajero RENEW_jp" 
+PRINT(".\Principal_CPU Cajero RENEW_jp.m51") RAMSIZE(256) 

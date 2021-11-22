@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"Principal_MF.obj" 
+TO "Principal_CPU Cajero RENEW" 
+RAMSIZE(256) 
